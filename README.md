@@ -1,5 +1,7 @@
 **Analysis of the worldwide pandemic COVID-19**
 
+Link to my Google colaboratory : https://drive.google.com/open?id=1rdJF3XKWi36PA2j7E8bsaUHtIHLIZlmV
+
  1. The dataset has been loaded from various sources.
  
  2. Data Analysis of the spread of the virus is from 22nd January, 2020 to 7th April, 2020.
