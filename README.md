@@ -2,7 +2,7 @@
 
  1. The dataset has been loaded from various sources.
  
- 2. Data Analysis of the spread of the virus is from 1st January, 2020 to 7th April, 2020.
+ 2. Data Analysis of the spread of the virus is from 22nd January, 2020 to 7th April, 2020.
  
  3. For data visualisation I have used the plotly library of python.
  
