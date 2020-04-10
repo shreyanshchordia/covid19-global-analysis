@@ -1,6 +1,6 @@
 **Analysis of the worldwide pandemic COVID-19**
 
-Link to my Google colaboratory : https://drive.google.com/open?id=1rdJF3XKWi36PA2j7E8bsaUHtIHLIZlmV
+Link to my Google colaboratory : [Link](https://colab.research.google.com/gist/shreyanshchordia/13ea2b892ae1b5ecd6e21ab16d536762/covid-19.ipynb)
 
  1. The dataset has been loaded from various sources.
  
